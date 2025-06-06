@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.PlayerGui.HUD.FullSize.Money.Text = "$2,000,000"

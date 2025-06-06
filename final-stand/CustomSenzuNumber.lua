@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.PlayerGui.HUD.Bottom.Senzu.Am.Text = "Infinity"

